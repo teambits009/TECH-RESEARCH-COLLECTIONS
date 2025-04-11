@@ -163,4 +163,4 @@ This repo is public because I believe in **open innovation** and **building in t
 
 --- 
 
-Let me know if you'd like to convert this into a GitHub-friendly format with clickable internal links, collapsible sections, or badge-based tech labels!
+
